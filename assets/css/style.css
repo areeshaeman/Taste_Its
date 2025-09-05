@@ -28,7 +28,7 @@ html{
 /********* header ********/
 header {
   background-color: rgba(8, 2, 2, 0.7); 
-  padding: 20px;
+  padding: 15px;
   box-sizing: border-box;
   position: absolute; 
   border-radius: 10px;
@@ -1463,4 +1463,5 @@ margin:10px;
 
 
   
+
 
